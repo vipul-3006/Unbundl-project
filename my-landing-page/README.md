@@ -1,0 +1,6 @@
+![home](<Screenshot 2025-11-30 092419.png>)
+![services](<Screenshot 2025-11-30 092501.png>) 
+![about](<Screenshot 2025-11-30 092449.png>)
+![testimonials](<Screenshot 2025-11-30 092900.png>) 
+![pricing](<Screenshot 2025-11-30 092849.png>) 
+![footer](<Screenshot 2025-11-30 092832.png>)
